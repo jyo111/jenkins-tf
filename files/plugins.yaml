@@ -1,0 +1,10 @@
+plugins:
+  - artifactId: docker-plugin
+  - artifactId: docker-workflow
+  - artifactId: pipeline-utility-steps
+  - artifactId: multibranch-scan-webhook-trigger
+  - artifactId: configuration-as-code
+  - artifactId: role-strategy
+  - artifactId: Slack Notification
+
+
